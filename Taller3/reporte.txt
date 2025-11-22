@@ -1,0 +1,31 @@
+
+REPORTE DE PROYECTOS Y TAREAS
+
+ PROYECTO: PR001 - Plataforma de E-commerce 
+Responsable: admin1
+Tarea ID: T001Tipo Impacto: ALTO
+Descripcion: Error en el login de usuarios
+Estado: Pendiente Complejidad: Alta
+Tarea ID: T002Tipo Impacto: MEDIO
+Descripcion: Agregar carrito de compras
+Estado: Pendiente Complejidad: Media
+Tarea ID: T003Tipo Impacto: BAJO
+Descripcion: Redactar manual de usuario
+Estado: En progreso Complejidad: Baja
+ PROYECTO: PR002 - Sistema de Inventario 
+Responsable: admin2
+Tarea ID: T004Tipo Impacto: MEDIO
+Descripcion: Implementar módulo de reportes
+Estado: Pendiente Complejidad: Alta
+Tarea ID: T005Tipo Impacto: ALTO
+Descripcion: Fallo en exportación de datos
+Estado: Pendiente Complejidad: Alta
+ PROYECTO: PR003 - Aplicación Móvil de Reservas 
+Responsable: admin3
+Tarea ID: T006Tipo Impacto: MEDIO
+Descripcion: Diseñar pantalla de reservas
+Estado: Pendiente Complejidad: Media
+Tarea ID: T007Tipo Impacto: BAJO
+Descripcion: Escribir casos de uso
+Estado: Pendiente Complejidad: Baja
+==========================================
